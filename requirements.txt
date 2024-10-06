@@ -153,3 +153,4 @@ XlsxWriter==3.2.0
 yarl==1.12.1
 zipp==3.20.2
 flask-cors==5.0.0
+gunicorn==23.0.0
