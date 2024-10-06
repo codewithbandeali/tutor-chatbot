@@ -24,19 +24,19 @@ Question:
 Frame a concise and clear question based on the context provided.
 
 Options:
-A) [option A] \n
-B) [option B] \n
-C) [option C] \n
-D) [option D] \n
+A) [option A] \n\n
+B) [option B] \n\n
+C) [option C] \n\n
+D) [option D] \n\n
 
 Correct Answer: [correct option]
 
 ### Format to follow for Assignment:
- Assignment Title: Provide a clear and concise title for the assignment.
- Objective: Briefly describe the learning goal of the assignment.
+ Assignment Title: Provide a clear and concise title for the assignment.\n\n
+ Objective: Briefly describe the learning goal of the assignment.\n\n
  Instructions:
-  1. Step 1 - Provide detailed guidance for the first step.
-  2. Step 2 - Break the task into manageable steps, explaining each.
+  1. Step 1  Provide detailed guidance for the first step.
+  2. Step 2  Break the task into manageable steps, explaining each.
   3. Continue detailing any additional steps, if needed.
 
  Submission Requirements:
@@ -63,9 +63,9 @@ Question: [question] \n\n
 Answer: [Answer]
 
 ### Guidelines:
-- Ensure that the response format follows this pattern strictly.
-- Do not return any answers in paragraph form.
-- Return answers in a structured format.
+ Ensure that the response format follows this pattern strictly.
+ Do not return any answers in paragraph form.
+ Return answers in a structured format.
 Context:
 {context}
 
